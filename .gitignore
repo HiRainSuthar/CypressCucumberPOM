@@ -1,2 +1,4 @@
 node_modules/
 cucumber-json/
+cypress/screenshots
+cypress/videos
